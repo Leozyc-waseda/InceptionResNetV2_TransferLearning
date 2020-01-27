@@ -14,6 +14,16 @@
 # Use ResNet152V2
 10s 1ms/step - loss: 1.5802e-07 - acc: 1.0000 - val_loss: 0.3976 - val_acc: 0.9852
 
+# ResnetV2 and blur_rainy_InceptionResNetV2
+
+training dataset: rainy :12483 blur :2177 items
+
+
+validation dataset:rainy :1220 items blur :380 items
+
+test dataset : rainy : 100 items blur 100items
+
+
 # blur_rainy_InceptionResNetV2_TransferLearning
 
  loss: 8.0245e-10 - acc: 1.0000 - val_loss: 0.6806 - val_acc: 0.9488
