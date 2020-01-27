@@ -62,7 +62,6 @@
 
 input_1 (InputLayer)            (None, 299, 299, 3)  0                                      
 
-                                       。
                                        .
                                        .
                                        .
