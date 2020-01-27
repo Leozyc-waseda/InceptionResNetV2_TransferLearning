@@ -54,3 +54,23 @@
 
 
 # ResnetV2
+
+5s 1ms/step - loss: 7.1464e-04 - acc: 0.9998 - val_loss: 0.5614 - val_acc: 0.9550
+
+
+
+
+input_1 (InputLayer)            (None, 299, 299, 3)  0                                      
+
+                                       。
+                                       .
+                                       .
+                                       .
+                                       .
+                                       
+
+conv_7b_ac (Activation)         (None, 8, 8, 1536)   0           conv_7b_bn[0][0]                 
+
+
+
+
