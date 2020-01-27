@@ -15,9 +15,14 @@
 10s 1ms/step - loss: 1.5802e-07 - acc: 1.0000 - val_loss: 0.3976 - val_acc: 0.9852
 
 # blur_rainy_InceptionResNetV2_TransferLearning
+
  loss: 8.0245e-10 - acc: 1.0000 - val_loss: 0.6806 - val_acc: 0.9488
+ 
+ 
  Found 14660 images belonging to 2 classes.
+ 
  Found 1600 images belonging to 2 classes.
+ 
  Found 100 images belonging to 2 classes.
 
  Model: "resnet152v2"
